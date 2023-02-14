@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "34680000426",
+    "project_id": "auth-6711e",
+    "storage_bucket": "auth-6711e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34680000426:android:1d75d2da5f124f0c9b25d3",
+        "android_client_info": {
+          "package_name": "com.daviixo.google_firebase_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34680000426-ca6fjr13fqalgkisv6va3kl7t6acv2so.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4Fcrf7GHwDPr79iwbhzbf57FHOyjLnhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34680000426-ca6fjr13fqalgkisv6va3kl7t6acv2so.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
